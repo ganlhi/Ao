@@ -211,7 +211,7 @@
     <gml:featureMember>
         <gpml:Flowline>
             <gpml:identity>GPlates-d0a61ba9-b1d4-46b0-95f8-6693ab719f2b</gpml:identity>
-            <gpml:revision>GPlates-226f4d97-a0dd-4c56-aa94-21bdf60e277d</gpml:revision>
+            <gpml:revision>GPlates-d1194af7-541f-4004-9866-7f79af94de0c</gpml:revision>
             <gml:name>flowlines_750</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
