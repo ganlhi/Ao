@@ -147,7 +147,7 @@
     <gml:featureMember>
         <gpml:ContinentalRift>
             <gpml:identity>GPlates-29d5940c-ed17-420f-b623-4cb51e99d005</gpml:identity>
-            <gpml:revision>GPlates-413af352-39f4-4530-be5d-3329db720ff4</gpml:revision>
+            <gpml:revision>GPlates-cfce542c-1715-40c1-800e-651c9af23ceb</gpml:revision>
             <gml:name>failed_rift_900</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -158,7 +158,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -243,7 +243,7 @@
     <gml:featureMember>
         <gpml:ContinentalRift>
             <gpml:identity>GPlates-9f2d334b-d085-442d-90ff-60d108720853</gpml:identity>
-            <gpml:revision>GPlates-b6280e9c-2344-4467-b033-9d5ceaa3be46</gpml:revision>
+            <gpml:revision>GPlates-cc550789-c171-459e-97dd-8f92d760af7c</gpml:revision>
             <gml:name>failed_rift_900</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -254,7 +254,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>

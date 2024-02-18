@@ -133,7 +133,7 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-47.613845196086331 -12.207445571272023 -60.988738681364779 2.8590081935849101 -62.712904227735727 7.4870620346949472 </gml:posList>
+                                    <gml:posList gml:dimension="2">-47.613845196086331 -12.207445571272023 -60.988738681364779 2.8590081935849101 -62.712904227735727 7.487062034694949 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
@@ -147,7 +147,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-ee058b81-ed17-48ce-a2ed-67abdad07d56</gpml:identity>
-            <gpml:revision>GPlates-4a784a58-639c-4133-8174-9de915a41832</gpml:revision>
+            <gpml:revision>GPlates-619c174f-4cfb-4752-a720-a238775b61db</gpml:revision>
             <gml:name>sub_1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -165,7 +165,7 @@
             </gml:validTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
-                    <gpml:value>100</gpml:value>
+                    <gpml:value>300</gpml:value>
                     <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
@@ -195,7 +195,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-e030949b-5631-4d50-87b0-c6042a8b63e0</gpml:identity>
-            <gpml:revision>GPlates-c01604dc-1717-4556-960c-2829df73c963</gpml:revision>
+            <gpml:revision>GPlates-f7d59da3-94fa-4bfa-aa0d-0e0f739fd10a</gpml:revision>
             <gml:name>sub_1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -213,7 +213,7 @@
             </gml:validTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
-                    <gpml:value>500</gpml:value>
+                    <gpml:value>700</gpml:value>
                     <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
@@ -229,7 +229,7 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">39.919303451619633 90.214198583758048 39.85735271714789 90.259388272791497 29.722607964727946 99.013157882534045 13.120041105350387 98.206911522562208 8.9007477482316659 96.617462847926319 1.0289160935487602 90.774187340703634 -17.867473481608016 73.003799717598369 -21.766402636553284 69.625552996919694 </gml:posList>
+                                    <gml:posList gml:dimension="2">39.919303451619633 90.214198583758048 39.85735271714789 90.259388272791497 29.722607964727946 99.013157882534045 13.120041105350387 98.206911522562208 8.9007477482316659 96.617462847926319 1.0289160935487602 90.774187340703634 -8.4755814683062489 82.150795148638821 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
@@ -277,7 +277,7 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-8.9382830444512322 -6.7128777072675456 -9.1773513709643151 -10.748396605052511 -13.623197505093387 -16.093102084998652 -17.779818351735756 -16.178474675060734 -21.265530772287921 -19.925204987266262 -24.880882399713425 -20.448240263714602 -30.673990139863594 -20.031999926468334 -34.510760127346295 -22.30752515312804 -36.6313027004242 -25.475018273539305 </gml:posList>
+                                    <gml:posList gml:dimension="2">-8.9382830444512322 -6.7128777072675456 -9.1773513709643151 -10.748396605052511 -13.623197505093387 -16.093102084998652 -17.779818351735756 -16.178474675060738 -21.265530772287921 -19.925204987266262 -24.880882399713425 -20.448240263714602 -30.673990139863594 -20.031999926468337 -34.510760127346295 -22.30752515312804 -36.6313027004242 -25.475018273539305 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
@@ -483,7 +483,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-5a770f20-4c9b-4836-bc22-550b21ea8485</gpml:identity>
-            <gpml:revision>GPlates-afe8828b-6274-4b2c-aa7f-1042dffdd4d4</gpml:revision>
+            <gpml:revision>GPlates-42ed9e1f-e7d9-4142-a46e-4c460dd5e021</gpml:revision>
             <gml:name>sub_800</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -501,7 +501,7 @@
             </gml:validTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
-                    <gpml:value>500</gpml:value>
+                    <gpml:value>700</gpml:value>
                     <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
@@ -517,7 +517,7 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">39.958660160625747 90.195399548199035 49.38809665309104 91.313658735008985 49.432059734144886 90.979930012950504 </gml:posList>
+                                    <gml:posList gml:dimension="2">39.958660160625747 90.195399548199035 49.38809665309104 91.313658735008985 49.432059734144886 90.979930012950518 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
@@ -661,7 +661,7 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">49.432059734144886 90.979930012950504 50.178369973083321 83.057326653183125 50.422583573949836 74.123040080606458 48.717618139489694 62.077747164882666 42.961059891621446 45.138679916638587 33.303741056063075 29.74641712813267 </gml:posList>
+                                    <gml:posList gml:dimension="2">49.432059734144886 90.979930012950518 50.178369973083321 83.057326653183125 50.422583573949836 74.123040080606458 48.717618139489694 62.077747164882666 42.961059891621446 45.138679916638587 33.303741056063075 29.74641712813267 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
@@ -675,7 +675,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-4045e0e7-adfc-4b2d-b02d-a76ff0c53ee1</gpml:identity>
-            <gpml:revision>GPlates-4b854d50-eb8b-4bee-b7bd-21c2550b6cbf</gpml:revision>
+            <gpml:revision>GPlates-e6379fe9-f470-46e4-8340-923ae742157e</gpml:revision>
             <gml:name>sub_800</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -686,7 +686,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">700</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -805,7 +805,55 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-62.712904227735727 7.4870620346949472 -63.828445213017559 11.076074652632686 -65.253442303309711 29.662152750086264 -64.190943113041314 35.418724116603187 -44.445551315067505 54.526179215358859 -23.546465835851382 56.836208954719424 </gml:posList>
+                                    <gml:posList gml:dimension="2">-62.712904227735727 7.487062034694949 -63.828445213017559 11.076074652632686 -65.253442303309711 29.662152750086264 -64.190943113041314 35.418724116603187 -44.445551315067505 54.526179215358859 -23.546465835851382 56.836208954719424 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:SubductionZone>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:SubductionZone>
+            <gpml:identity>GPlates-1b4b94ff-9ba2-40ce-bdfa-98e4523f60d1</gpml:identity>
+            <gpml:revision>GPlates-41e19dd6-544f-4fb2-8173-71bf41ed37a0</gpml:revision>
+            <gml:name>sub_1000</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1000</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>500</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1000</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">-8.4755814683062489 82.150795148638821 -17.867473481608016 73.003799717598369 -21.766402636553284 69.625552996919694 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
