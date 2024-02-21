@@ -147,7 +147,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-ee058b81-ed17-48ce-a2ed-67abdad07d56</gpml:identity>
-            <gpml:revision>GPlates-619c174f-4cfb-4752-a720-a238775b61db</gpml:revision>
+            <gpml:revision>GPlates-1eac1a7e-63a6-42d6-b899-2983a010158e</gpml:revision>
             <gml:name>sub_1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -158,7 +158,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">600</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -195,7 +195,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-e030949b-5631-4d50-87b0-c6042a8b63e0</gpml:identity>
-            <gpml:revision>GPlates-5bbe9dc3-76e5-4ce6-8ae4-fc0b6eb27742</gpml:revision>
+            <gpml:revision>GPlates-ae0293fa-3c29-4bb2-9a7e-043c5958cb48</gpml:revision>
             <gml:name>sub_1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -206,7 +206,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">600</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -435,7 +435,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-f5465be0-2ab4-4079-b316-b8cc6a8647e1</gpml:identity>
-            <gpml:revision>GPlates-29c6f1f3-a234-4124-ba75-628710a8a4ec</gpml:revision>
+            <gpml:revision>GPlates-e3c3a73a-7275-43d1-8a26-f3513dc65479</gpml:revision>
             <gml:name>sub_1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -446,7 +446,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">600</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -483,7 +483,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-5a770f20-4c9b-4836-bc22-550b21ea8485</gpml:identity>
-            <gpml:revision>GPlates-42ed9e1f-e7d9-4142-a46e-4c460dd5e021</gpml:revision>
+            <gpml:revision>GPlates-5525d833-287e-498a-b4c5-323a8321fe8c</gpml:revision>
             <gml:name>sub_800</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -494,7 +494,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">600</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -1203,7 +1203,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-4013b880-e274-4421-ab3f-d22f50a2227b</gpml:identity>
-            <gpml:revision>GPlates-6b27866e-83d2-4a0b-8a7c-a12c86df1364</gpml:revision>
+            <gpml:revision>GPlates-abc46b47-9c1e-40c4-9ec7-dd7ea80480ad</gpml:revision>
             <gml:name>sub_1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1214,7 +1214,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">600</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>

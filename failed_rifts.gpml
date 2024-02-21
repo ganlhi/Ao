@@ -85,7 +85,7 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">6.3544871258277382 0.96800727939591324 3.9806023531208545 -0.91602825449843972 3.1139460075294534 -1.8203653107677269 2.8125003221063558 -3.5913587126284221 2.6617774793948072 -6.1913277494026246 1.908163265837068 -8.2637668366864112 0.7777419455004555 -9.9970795278692144 -0.65412506025925055 -10.976778005494278 -1.5619709178433325 -14.080348482264142 -0.13208848269193396 -18.250838918122369 </gml:posList>
+                                    <gml:posList gml:dimension="2">6.3544871258277382 0.96800727939591347 3.9806023531208545 -0.91602825449843983 3.1139460075294534 -1.8203653107677269 2.8125003221063558 -3.5913587126284225 2.6617774793948072 -6.1913277494026246 1.908163265837068 -8.2637668366864112 0.7777419455004555 -9.9970795278692144 -0.65412506025925055 -10.976778005494278 -1.5619709178433325 -14.080348482264142 -0.13208848269193396 -18.250838918122369 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
@@ -99,7 +99,7 @@
     <gml:featureMember>
         <gpml:ContinentalRift>
             <gpml:identity>GPlates-3ece9c0e-3869-4b42-8f0b-7da32db3ff41</gpml:identity>
-            <gpml:revision>GPlates-6ab2b661-e933-47ed-8a7d-991d4839512c</gpml:revision>
+            <gpml:revision>GPlates-6dede6eb-c9a7-4c16-a93c-b8ad50f0dc21</gpml:revision>
             <gml:name>failed_rift_1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -110,7 +110,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">600</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
