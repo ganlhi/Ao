@@ -41,7 +41,7 @@
     <gml:featureMember>
         <gpml:HotSpot>
             <gpml:identity>GPlates-ffc28010-ce51-43f1-9f1f-7790d3af0018</gpml:identity>
-            <gpml:revision>GPlates-cc49d942-8651-4f02-a1b2-eec7c75862df</gpml:revision>
+            <gpml:revision>GPlates-887b55d7-dc1c-46ff-9766-d877f69bf1cd</gpml:revision>
             <gml:name>hotspot_600</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -73,17 +73,17 @@
                 <gml:MultiPoint>
                     <gml:pointMember>
                         <gml:Point>
-                            <gml:pos>-51.49798003006623 -135.99911676719915</gml:pos>
+                            <gml:pos>-51.103557564303031 -136.86030140055161</gml:pos>
                         </gml:Point>
                     </gml:pointMember>
                     <gml:pointMember>
                         <gml:Point>
-                            <gml:pos>-51.5349133426772 -136.44231651853076</gml:pos>
+                            <gml:pos>-50.952085822791844 -137.33801996993299</gml:pos>
                         </gml:Point>
                     </gml:pointMember>
                     <gml:pointMember>
                         <gml:Point>
-                            <gml:pos>-51.073246935040103 -135.98065011089369</gml:pos>
+                            <gml:pos>-50.928782477943976 -136.63891962449679</gml:pos>
                         </gml:Point>
                     </gml:pointMember>
                 </gml:MultiPoint>
